@@ -1,2 +1,2 @@
 # Tugas8_20220140157
-![Hasil SS](SSTUGAS8.png)
+![Hasil SS](SSPDW.png)
