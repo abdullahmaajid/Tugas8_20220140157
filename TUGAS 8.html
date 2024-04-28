@@ -61,9 +61,27 @@
                     </li>
                 </ul>
             </div>
-            
         </div>
     </div>
+    <button id="showAlertBtn" class="btn btn-primary">Click Me</button>
+
+    <script>
+        // Fungsi untuk menampilkan alert
+        function showMyAlert() {
+            alert("Halo! Ini adalah pesan alert.");
+        }
+    
+        // Menangkap elemen tombol
+        var showAlertBtn = document.getElementById("showAlertBtn");
+    
+        // Menambahkan event listener untuk menangani klik tombol
+        showAlertBtn.addEventListener("click", function() {
+            showMyAlert();
+        });
+    </script>
+    
+
+
     
     <footer class="footer bg-light">
         <div class="container">
