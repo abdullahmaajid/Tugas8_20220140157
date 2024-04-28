@@ -126,3 +126,9 @@ ul {
     transform: translateY(0);
 }
 
+#showAlertBtn {
+    color: white; /* Warna teks hitam */
+    display: block; /* Agar tombol berada di tengah */
+    margin: 0 auto; /* Posisikan tombol di tengah */
+    margin-top: 20px; /* Beri jarak atas */
+}
